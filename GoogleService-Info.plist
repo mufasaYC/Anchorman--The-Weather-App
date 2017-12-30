@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>332349419297-qk6sr2sbbjhgnr2ghin8076gova01rtf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.332349419297-qk6sr2sbbjhgnr2ghin8076gova01rtf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBKyZHsw2hzkQkS5zg63GUXs4uFHwfxEhY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>332349419297</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.MYC.Weather-App</string>
+	<key>PROJECT_ID</key>
+	<string>black-backup-190516</string>
+	<key>STORAGE_BUCKET</key>
+	<string>black-backup-190516.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:332349419297:ios:29fff4e95a7a6312</string>
+	<key>DATABASE_URL</key>
+	<string>https://black-backup-190516.firebaseio.com</string>
+</dict>
+</plist>
